@@ -3,5 +3,5 @@ This project is based on the login and sign in page which accepts username and p
 the user can login by filling right credentials 
 if the user forgot password they can see their password by just giving username 
 
-Kindly click on the Sign
+Kindly click on the Signin.pyw 
 Disclaimer:- this not .exe file and this project is currently under development. 
